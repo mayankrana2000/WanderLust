@@ -6,7 +6,7 @@ const path = require("path");
 const methodOverride = require("method-override");
 const ejsMate = require("ejs-mate");
  
-
+//Want to see changes
 //Database creation and addition
 const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
 
